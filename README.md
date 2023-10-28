@@ -1,20 +1,2 @@
-# oscarbelda86.github.io
+# Oscar Belda Collado
 
-1. Links with things that I find interesting
-- [ResearchHub](https://www.researchhub.com/) (Papers Discussion)
-- [The Network State](https://thenetworkstate.com/) (Book about making a new country)
-- [Prisma Methodology](https://www.prisma-statement.org/) (Prisma Methodology for making a thesis)
-- [Guide to Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-- [Learning Golang](https://go.dev/learn/) (I really need to learn Go)
-- [Make a computer from scratch](https://www.nand2tetris.org/course)
-- [Everything I want to know CS related](https://matt.might.net/articles/what-cs-majors-should-know/)
-- [Bloodborne Lore guide](https://docs.google.com/document/u/0/d/1JL5acskAT_2t062HILImBkV8eXAwaqOj611mSjK-vZ8/mobilebasic)
-- [Sebastian Ruder](https://ruder.io/) (Very interesting blog from a Machine learning Scientist at Google)
-- [Adit Deshpande](https://adeshpande3.github.io/) (Another interesting Machine Learning blog)
-- [Deepmind](https://www.deepmind.com/) (They always come up with very interesting stuff!)
-- [Optimization Wiki by Cornell](https://optimization.cbe.cornell.edu/index.php?title=Main_Page)
-- [Numerical Methods with Python](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
-- [Sebastian Raschka](https://sebastianraschka.com/blog/index.html) (Machine Learning blog)
-- [Yet another blog](https://colah.github.io/)
-- [Another good blog](https://atmamani.github.io/)
-- [Harvard Data Science course](http://cs109.github.io/2015/pages/videos.html)
