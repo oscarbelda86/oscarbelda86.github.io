@@ -23,10 +23,23 @@ Welcome to my page! Data Scientist/Researcher on the making. From Chile.
 
 # Job Experience
 * * *
+**Machine Learning Engineer**
+*HDI Seguros*
+*Dates of Employment: January 2025 - Present*
+
+- 
+
+**Computer Engineer**
+*Trademedical*
+*Dates of Employment: July 2024 - December 2024*
+
+- Business processes optimization, mainly with the use of AI
+- Cybersecurity capacitations for employees, while also developing the cybersecurity general plan for the company
+- Data Analysis to create insights for data driven decision making
 
 **Research Assistant**  
 *The Metals Company*   
-*Dates of Employment: September 2023 - Present*
+*Dates of Employment: September 2023 - September 2024*
 
 - Developed and maintained mission-critical software applications for a diverse range of clients.
 - Collaborated with cross-functional teams to design and implement robust and scalable solutions.
